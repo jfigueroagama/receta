@@ -37,6 +37,8 @@ gem 'jbuilder', '~> 2.5'
 
 # Bridge between Bower and Rails
 gem 'bower-rails'
+# Use Angular templates with Rails assets pipeline
+gem 'angular-rails-templates'
 
 # Process manager for applications with multiple componentes
 gem 'foreman'
